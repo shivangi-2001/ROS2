@@ -1,0 +1,29 @@
+[0.709s] Invoking command in '/home/ninjaladro/ros/src/my_controller': PYTHONPATH=/home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_controller build --build-base /home/ninjaladro/ros/build/my_controller/build install --prefix /home/ninjaladro/ros/install/my_controller --record /home/ninjaladro/ros/build/my_controller/install.log --single-version-externally-managed
+[0.956s] running egg_info
+[0.958s] writing ../../build/my_controller/my_controller.egg-info/PKG-INFO
+[0.958s] writing dependency_links to ../../build/my_controller/my_controller.egg-info/dependency_links.txt
+[0.958s] writing entry points to ../../build/my_controller/my_controller.egg-info/entry_points.txt
+[0.958s] writing requirements to ../../build/my_controller/my_controller.egg-info/requires.txt
+[0.958s] writing top-level names to ../../build/my_controller/my_controller.egg-info/top_level.txt
+[0.960s] reading manifest file '../../build/my_controller/my_controller.egg-info/SOURCES.txt'
+[0.961s] writing manifest file '../../build/my_controller/my_controller.egg-info/SOURCES.txt'
+[0.961s] running build
+[0.961s] running build_py
+[0.962s] copying my_controller/turtle_controller.py -> /home/ninjaladro/ros/build/my_controller/build/lib/my_controller
+[0.962s] running install
+[0.962s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.963s]   warnings.warn(
+[0.963s] running install_lib
+[0.964s] copying /home/ninjaladro/ros/build/my_controller/build/lib/my_controller/turtle_controller.py -> /home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages/my_controller
+[0.964s] byte-compiling /home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages/my_controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[0.965s] running install_data
+[0.965s] running install_egg_info
+[0.967s] removing '/home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages/my_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.968s] Copying ../../build/my_controller/my_controller.egg-info to /home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages/my_controller-0.0.0-py3.10.egg-info
+[0.968s] running install_scripts
+[0.992s] Installing drawCircle script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[0.992s] Installing pose_sub script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[0.992s] Installing test_node script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[0.992s] Installing turtle_controller script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[0.992s] writing list of installed files to '/home/ninjaladro/ros/build/my_controller/install.log'
+[1.039s] Invoked command in '/home/ninjaladro/ros/src/my_controller' returned '0': PYTHONPATH=/home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_controller build --build-base /home/ninjaladro/ros/build/my_controller/build install --prefix /home/ninjaladro/ros/install/my_controller --record /home/ninjaladro/ros/build/my_controller/install.log --single-version-externally-managed

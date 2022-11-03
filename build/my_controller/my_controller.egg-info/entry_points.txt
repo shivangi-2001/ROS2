@@ -1,0 +1,7 @@
+[console_scripts]
+drawCircle = my_controller.draw_circle:main
+pose_sub = my_controller.pose_subscriber:main
+service_client = my_controller.services_client:main
+test_node = my_controller.TestNode:main
+turtle_controller = my_controller.turtle_controller:main
+

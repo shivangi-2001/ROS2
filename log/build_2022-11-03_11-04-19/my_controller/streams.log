@@ -1,0 +1,29 @@
+[1.249s] Invoking command in '/home/ninjaladro/ros/build/my_controller': PYTHONPATH=/home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ninjaladro/ros/install/my_controller --editable --build-directory /home/ninjaladro/ros/build/my_controller/build --no-deps install_data --install-dir /home/ninjaladro/ros/install/my_controller
+[1.749s] running develop
+[1.750s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.750s]   warnings.warn(
+[1.758s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.758s]   warnings.warn(
+[1.854s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.854s]   warnings.warn(
+[1.854s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.854s]   warnings.warn(
+[2.031s] running egg_info
+[2.032s] writing my_controller.egg-info/PKG-INFO
+[2.033s] writing dependency_links to my_controller.egg-info/dependency_links.txt
+[2.033s] writing entry points to my_controller.egg-info/entry_points.txt
+[2.033s] writing requirements to my_controller.egg-info/requires.txt
+[2.033s] writing top-level names to my_controller.egg-info/top_level.txt
+[2.036s] reading manifest file 'my_controller.egg-info/SOURCES.txt'
+[2.038s] writing manifest file 'my_controller.egg-info/SOURCES.txt'
+[2.040s] running build_ext
+[2.041s] Creating /home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages/my-controller.egg-link (link to .)
+[2.042s] Installing drawCircle script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[2.042s] Installing pose_sub script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[2.043s] Installing service_client script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[2.043s] Installing test_node script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[2.043s] Installing turtle_controller script to /home/ninjaladro/ros/install/my_controller/lib/my_controller
+[2.043s] 
+[2.044s] Installed /home/ninjaladro/ros/build/my_controller
+[2.044s] running install_data
+[2.123s] Invoked command in '/home/ninjaladro/ros/build/my_controller' returned '0': PYTHONPATH=/home/ninjaladro/ros/install/my_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ninjaladro/ros/install/my_controller --editable --build-directory /home/ninjaladro/ros/build/my_controller/build --no-deps install_data --install-dir /home/ninjaladro/ros/install/my_controller
